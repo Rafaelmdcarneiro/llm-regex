@@ -1,7 +1,3 @@
-# Philbin
-
-**Alert**: This is [buggy](#bugs) and [insecure software](#security-concerns)! Do not [use](#how-to-use)!
-
 Philbin uses an LLM to generate descriptions and regular expressions for data selections.
 
 This is inspired by Geoffrey Litt showing me a demo of [Potluck](https://www.inkandswitch.com/potluck/) by Litt, Schoening, Shen, and Sonnentag. I'm a big fan of what they call _gradual enrichment_ media: spreadsheets and HTML/CSS/JavaScript also have this property.
